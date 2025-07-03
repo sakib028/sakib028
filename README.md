@@ -4,15 +4,11 @@
 ###
 
 <h2 align="left">A passionate frontend And Backend developer from Bangladesh</h2>
-
-  <img   align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTM2aGFrZnM1dndiOWdidHZuMTZxZ3FrYXM3MWJjdzh6NmlxaDFydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
-
-<img align="right" height="150"  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a25lNDI5MTRnenVkMmI2eHJraHo5dnkxZ3oydjh3OGk1ZHBqYXR1aiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-
-I<hr/>
-I<hr/>
-<p/>
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTM2aGFrZnM1dndiOWdidHZuMTZxZ3FrYXM3MWJjdzh6NmlxaDFydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
+  
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a25lNDI5MTRnenVkMmI2eHJraHo5dnkxZ3oydjh3OGk1ZHBqYXR1aiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</div>
 
 
 ## 🌐 Socials:
