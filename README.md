@@ -4,6 +4,9 @@
 ###
 
 <h2 align="left">A passionate frontend And Backend developer from Bangladesh</h2>
+<div align="centert">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTM2aGFrZnM1dndiOWdidHZuMTZxZ3FrYXM3MWJjdzh6NmlxaDFydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
+</div>
 I
 
 
@@ -19,6 +22,8 @@ I
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sakib028&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
